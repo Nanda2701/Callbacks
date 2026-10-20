@@ -1,0 +1,15 @@
+C:\Users\fernanda\Desktop\API\Callbacks\bin\Debug\net10.0\Callbacks.exe
+C:\Users\fernanda\Desktop\API\Callbacks\bin\Debug\net10.0\Callbacks.deps.json
+C:\Users\fernanda\Desktop\API\Callbacks\bin\Debug\net10.0\Callbacks.runtimeconfig.json
+C:\Users\fernanda\Desktop\API\Callbacks\bin\Debug\net10.0\Callbacks.dll
+C:\Users\fernanda\Desktop\API\Callbacks\bin\Debug\net10.0\Callbacks.pdb
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.AssemblyInfoInputs.cache
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.AssemblyInfo.cs
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.dll
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\refint\Callbacks.dll
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.pdb
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.genruntimeconfig.cache
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\ref\Callbacks.dll
+C:\Users\fernanda\Desktop\API\Callbacks\obj\Debug\net10.0\Callbacks.csproj.Up2Date
